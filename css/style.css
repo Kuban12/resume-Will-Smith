@@ -166,6 +166,8 @@ button:hover{
 }
 /* About section end */
 
+
+/* Hobbies section stsrt */
 .hobbies{
 	background: #101010;
 	width: 100%;
@@ -185,7 +187,7 @@ button:hover{
 	min-height: 400px;
 }
 .card{
-	height: 365px;
+	height: 20%;
 	width: 100%;
 	padding: 20px 35px;
 	background: #191919;
@@ -254,7 +256,7 @@ h5{
 	border-radius: 30px;
 	transition: .4s; 
 }
-/* Hobbies section start */
+/* Hobbies section end */
 
 /* Skills section start */
 .skills_container {
